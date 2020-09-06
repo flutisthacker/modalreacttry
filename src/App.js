@@ -4,10 +4,9 @@ import "./styles.css";
 import Modal from "./Modal.js";
 
 export default function App() {
-
   return (
     <div className="App">
-<Modal />
+      <Modal />
     </div>
   );
 }
